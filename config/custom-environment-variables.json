@@ -1,0 +1,5 @@
+{
+  "clientSigningSecret": "CLIENT_SIGNING_SECRET",
+  "botToken": "BOT_TOKEN",
+  "mongoUrl": "MONGO_URL"
+}
