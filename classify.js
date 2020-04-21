@@ -17,6 +17,7 @@ const {
 const { source } = require('./lib/helpers');
 const { SlackMessageSchema, IntentionSchema } = require('./lib/schemas');
 
+// this is stupid
 const english = 'en';
 const log = false;
 const manager = new NlpManager({ languages: [english], nlu: { log } });
